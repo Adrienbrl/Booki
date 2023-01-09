@@ -530,6 +530,10 @@ footer {
   .all-article-container a {
     width: 40%;
   }
+
+  .populaire-container .chart {
+    margin-right: 1rem;
+  }
 }
 
 /* MODEL TELEPHONE */
