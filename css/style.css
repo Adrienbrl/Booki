@@ -296,10 +296,6 @@ figcaption {
   font-size: calc(18rem / 16);
 }
 
-.phantom-title-container {
-  display: none;
-}
-
 /* LES PLUS POPULAIRES */
 
 .populaire-container {
